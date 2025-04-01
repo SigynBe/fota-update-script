@@ -12,7 +12,7 @@ Antes de usar o script, certifique-se de que possui os seguintes requisitos:
 ## Instalação
 1. Clone este repositório ou baixe o script manualmente:
    ```bash
-   git clone https://github.com/seu-usuario/fota-update-script.git
+   git clone git@github.com:SigynBe/fota-update-script.git
    cd fota-update-script
    ```
 
